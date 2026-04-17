@@ -14,7 +14,8 @@ Análisis de Datos: Disponibilidad de vistas analíticas para identificar rápid
 
 📋 Modelo Entidad relacion
 
-<img width="1243" height="655" alt="diagrama_ER" src="https://github.com/user-attachments/assets/98cb0f2e-3c1e-4846-8831-cf406eae05d0" />
+<img width="1222" height="705" alt="image" src="https://github.com/user-attachments/assets/be30f070-b2e6-4231-837f-fcc8cd023bca" />
+
 
 ⚙️ Explicación de Lógica Programada
 1. Funciones Personalizadas (UDF)
